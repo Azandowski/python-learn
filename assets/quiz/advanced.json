@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Кірістірілген map() функциясын пайдаланудың қандай артықшылықтары бар?",
+        "options": ["Код өнімділігін арттырады", "Кодты оқуды және түсінуді жеңілдетеді", "Функцияны қайталанатын элементтің барлық элементтеріне қолданады", "Python тіліндегі циклдарды ауыстырады"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Python-да генератор өрнегін (generator expression) қалай жасауға болады?",
+        "options": ["(x for x in range(10))", "generate x: x in range(10)", "create generator x from range(10)", "[x for x in range(10)]"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да реттелетін ерекше жағдайды қалай жасауға болады?",
+        "options": ["raise MyException", "throw MyException", "exception MyException", "create MyException"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да өзгермелі нүкте сандары қандай деректер түрлері болып табылады?",
+        "options": ["float, double", "float, int", "double, decimal", "float, complex"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да виртуалды орта (virtual environment) дегеніміз не?",
+        "options": ["Программаны орындау үшін оқшауланған орта", "Веб-фреймворк", "Стандартты кітапхананың бөлігі", "Әзірлеуге арналған GUI"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python тілінде тұрақты өрнектермен жұмыс істеу үшін қандай модуль қолданылады?",
+        "options": ["re", "regex", "regexp", "regexpression"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python тілінде HTTP сұрауларын жасау үшін қандай әдіс қолданылады?",
+        "options": ["urllib.request()", "http.request()", "requests()", "http.get()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Сөздікте кілттің бар-жоғын қалай анықтауға болады?",
+        "options": ["key_exists()", "has_key()", "in", "contains_key()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Python тілінде электрондық поштаны жіберу үшін қандай әдіс қолданылады?",
+        "options": ["send_mail()", "email.send()", "smtplib.sendmail()", "mail.send()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "PYTHONPATH ортасының айнымалы мәніне ағымдағы модульдер жолын қалай қосуға болады?",
+        "options": ["export PYTHONPATH=$PYTHONPATH:./", "set PYTHONPATH=./", "PYTHONPATH=.:$PYTHONPATH", "add PYTHONPATH=./"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Төмендегі операторлардың қайсысы Python тілінде биттерді өңдеу үшін қолданылады?",
+        "options": ["&", "^", "|", "<<", "Барлығы дұрыс"],
+        "correctOptionIndex": 4
+    },
+    {
+        "question": "Python тіліндегі PUT әдісі арқылы сұраулар кітапханасымен HTTP сұрауын requests қалай жіберуге болады?",
+        "options": ["requests.post(url, data)", "requests.put(url, data)", "requests.request('PUT', url, data)", "requests.put(url)"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Python-да айнымалының түрін қалай алуға болады?",
+        "options": ["typeof()", "get_type()", "type()", "variable_type()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Python тілінде мәліметтер қорымен жұмыс істеу үшін қандай модуль қолданылады?",
+        "options": ["db", "sql", "database", "sqlite3"],
+        "correctOptionIndex": 3
+    },
+    {
+        "question": "aiohttp кітапхананы пайдаланып Python-да асинхронды HTTP сұрауын қалай жасауға болады?",
+        "options": ["aiohttp.request(url)", "aiohttp.get(url)", "aiohttp.post(url)", "aiohttp.ClientSession().get(url)"],
+        "correctOptionIndex": 3
+    },
+    {
+        "question": "ISO 8601 пішімінде ағымдағы күн мен уақытты қалай алуға болады?",
+        "options": ["datetime.now()", "datetime.isoformat()", "datetime.now().isoformat()", "datetime.format()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Python-да декораторды қалай жасауға болады?",
+        "options": ["@decorator", "create_decorator()", "define decorator()", "decorator_function()"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да виртуалды ортаны (virtual environment) пайдаланудың артықшылықтары қандай?",
+        "options": ["Программаны орындау үшін оқшауланған орта", "Өнімділікті жақсарту", "Тәуелділіктерді орнату кезіндегі қауіпсіздік", "Кітапханалардың әртүрлі нұсқаларымен қатар жұмыс істеу мүмкіндігі"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да өзіңіздің итераторыңызды қалай жасауға болады?",
+        "options": ["define MyIterator", "class MyIterator", "create MyIterator", "new MyIterator()"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Төмендегі операторлардың қайсысы Python-да файлдармен жұмыс істеу үшін қолданылады?",
+        "options": ["open()", "read()", "write()", "close()","Барлығы дұрыс"],
+        "correctOptionIndex": 1 
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Python тілінде тізімнің соңына элемент қосу үшін қандай әдіс қолданылады?",
+        "options": ["add()", "insert()", "append()", "extend()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Тізімдегі элементтің индексі дегеніміз не?",
+        "options": ["Тізімдегі элементтер саны", "Тізімдегі элементтің реттік нөмірі", "Тізімдегі элементтің мәні", "Тізімдегі барлық элементтердің қосындысы"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Python-да санның жұп екенін қалай анықтауға болады?",
+        "options": ["is_even()", "even()", "number % 2 == 0", "check_even()"],
+        "correctOptionIndex": 2
+    },
+    {
+        "question": "Python контекстіндегі PEP 8 дегеніміз не?",
+        "options": ["Python нұсқасы", "Кодты пішімдеу стандарты", "Python файл кеңейтімі", "Кірістірілген модуль"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Жолдың ұзындығын анықтау үшін қандай функция қолданылады?",
+        "options": ["length()", "len()", "size()", "count()"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Python-да қандай деректер түрлері өзгермелі?",
+        "options": ["int, float, str", "list, set, dict", "tuple, bool, str", "int, float, tuple"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Түпнұсқаға әсер ететін көшірмеге өзгеріссіз тізімді Python-да қалай көшіруге болады?",
+        "options": ["list.copy()", "copy(list)", "list.clone()", "deepcopy(list)"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python тілінде тізімді қалай жасауға болады?",
+        "options": ["list()", "create_list()", "[ ]", "new list()"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Тізімнен 2 индексі бар элементті қалай алуға болады?",
+        "options": ["list[2]", "get(list, 2)", "extract(list, 2)", "element(list, 2)"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "«name» және « age» пернелері және сәйкесінше «John» және 25 мәндері бар сөздікті (dict) қалай жасауға болады?",
+        "options": ["{\"name\": \"John\", \"age\": 25}", "create dict(\"name\"=\"John\", \"age\"=25)", "dict(\"John\", 25, keys=(\"name\", \"age\"))", "new dict(name=\"John\", age=25)"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Тізім элементтерін кері ретпен қалай айналдыруға болады?",
+        "options": ["for item in reversed(my_list)", "for item in reverse(my_list)", "for item in my_list.reverse()", "for item in my_list.backward()"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python-да функцияны қалай жасауға болады?",
+        "options": ["def my_function():", "function my_function():", "create my_function():", "new_function():"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python тілінде сөздіктің көшірмесін қалай жасауға болады?",
+        "options": ["dict.copy()", "duplicate(dict)", "dict.clone()", "copy.deepcopy(dict)"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "1-ден 10-ға дейінгі сандардың квадраттарын алу үшін генераторлық өрнекті (generator expression) қалай құруға болады?",
+        "options": ["(x * x for x in range(1, 11))", "generate x * x: x in range(1, 11)", "create generator x * x from range(1, 11)", "[x * x for x in range(1, 11)]"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "«123» жолын бүтін санға қалай түрлендіруге болады?",
+        "options": ["to_int(\"123\")", "int(\"123\")", "convert(\"123\", int)", "str_to_int(\"123\")"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Python тіліндегі lambda функциясы дегеніміз не?",
+        "options": ["Анонимді функция", "Python стандартты кітапханасы", "Деректер типі", "Шартты оператор"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "1, 2, 3 элементтері бар кортежді (tuple)  қалай құруға болады?",
+        "options": ["tuple(1, 2, 3)", "(1, 2, 3)", "new tuple(1, 2, 3)", "create tuple with 1, 2, 3"],
+        "correctOptionIndex": 1
+    },
+    {
+        "question": "Тізімнен элементті мәні бойынша жою үшін қандай әдіс қолданылады?",
+        "options": ["remove()", "delete()", "discard()", "erase()"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "1, 2, 3 элементтері бар жиынды (set) қалай құруға болады?",
+        "options": ["{1, 2, 3}", "set(1, 2, 3)", "create set {1, 2, 3}", "new set(1, 2, 3)"],
+        "correctOptionIndex": 0
+    },
+    {
+        "question": "Python тілінде файлдан деректерді оқу үшін қандай әдіс қолданылады?",
+        "options": ["read_file()", "read()", "open()", "file.read()"],
+        "correctOptionIndex": 1
+    }
+]

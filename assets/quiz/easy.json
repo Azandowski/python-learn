@@ -1,0 +1,102 @@
+[
+  {
+      "question": "«x» деп аталатын айнымалыны қалай жасауға және оған Python-да 10 мәнін тағайындауға болады?",
+      "options": ["var x = 10", "x = 10", "create x = 10", "set x to 10"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Бүтін сандарды бөлу үшін қандай оператор қолданылады?",
+      "options": ["/", "//", "%", "*"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Python-да бүтін сандарды көрсету үшін қандай деректер түрі қолданылады?",
+      "options": ["integer", "int", "number", "long"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "print («Hello, World!») кодты орындаудың нәтижесі қандай болады?",
+      "options": ["Error", "Nothing", "10", "Hello, World!"],
+      "correctOptionIndex": 3
+  },
+  {
+      "question": "Python-да бос тізімді қалай жасауға болады?",
+      "options": ["list()", "[]", "new_list()", "empty_list()"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Python дегеніміз не?",
+      "options": ["Мәліметтер қорының түрі", "Программалау тілі", "Операциялық жүйе", "Интернет браузері"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Python-да айнымалыны қалай жасауға және оған 5 мәнін тағайындауға болады?",
+      "options": ["x = 5", "variable = 5", "create x and set to 5", "set variable 5"],
+      "correctOptionIndex": 0
+  },
+  {
+      "question": "Python тілінде % операторының қызметі?",
+      "options": ["Көбейту", "Көрсеткіш дәрежесі", "Бүтін бөлу", "Бөлудің қалдығы"],
+      "correctOptionIndex": 3
+  },
+  {
+      "question": "Python тілінде мәтінді экранда қалай көрсетуге болады?",
+      "options": ["console.log()", "echo()", "print()", "write()"],
+      "correctOptionIndex": 2
+  },
+  {
+      "question": "Python тіліндегі түсініктеме дегеніміз не?",
+      "options": ["Кодтың орындалмаған бөлігі", "кодтағы қате", "Экранды көрсету", "Айнымалыларды құру әдісі"],
+      "correctOptionIndex": 0
+  },
+  {
+      "question": "Төмендегі деректер түрлерінің қайсысы Python-да өзгермейді?",
+      "options": ["list", "tuple", "set", "dict"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Python тілінде санды жуықтау үшін қандай әдіс қолданады?",
+      "options": ["round()", "ceil()", "floor()", "trunc()"],
+      "correctOptionIndex": 0
+  },
+  {
+      "question": "Python тіліндегі шартты оператор дегеніміз не?",
+      "options": ["Цикл", "Тармақталу", "Функция", "Айнымалыларды құру әдісі"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Тізімнен соңғы элементті қалай алуға болады?",
+      "options": ["list[last]", "get_last(list)", "list[-1]", "extract_last(list)"],
+      "correctOptionIndex": 2
+  },
+  {
+      "question": "5 == «5» өрнегі нені білдіреді?",
+      "options": ["синтаксистік қате", "ақиқат", "жалған", "контекстке байланысты"],
+      "correctOptionIndex": 2
+  },
+  {
+      "question": "Python тілінде += операторының қызметі?",
+      "options": ["Мәнді азайтады", "Мәнді көбейтеді", "Мәнді бөледі", "Мән қосады"],
+      "correctOptionIndex": 3
+  },
+  {
+      "question": "Бүтін сандарды бөлу үшін қандай оператор қолданылады?",
+      "options": ["/", "//", "%", "*"],
+      "correctOptionIndex": 1
+  },
+  {
+      "question": "Жолды тізімге түрлендіру үшін қандай әдіс қолданылады?",
+      "options": ["str_to_list()", "list()", "split()", "to_list()"],
+      "correctOptionIndex": 2
+  },
+  {
+      "question": "Тізімдегі элементтердің санын қалай анықтауға болады?",
+      "options": ["count()", "length()", "len()", "size()"],
+      "correctOptionIndex": 2
+  },
+  {
+      "question": "Python тілінде логикалық «ЖӘНЕ» үшін қандай оператор қолданылады?",
+      "options": ["&", "&&", "and", "||"],
+      "correctOptionIndex": 2
+  }
+]
